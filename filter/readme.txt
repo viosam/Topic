@@ -1,0 +1,3 @@
+
+1.自定义Filter并实现Filter接口
+2.配置过滤器注册类：FilterRegistrationBean
